@@ -21,6 +21,7 @@ const userSchema = mongoose.Schema({
   }
 });
 
+// I dont know what is this...???
 const User = module.exports = mongoose.model('User', userSchema);
 
 // Get User By Id

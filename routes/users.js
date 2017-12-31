@@ -62,7 +62,6 @@ router.post('/authenticate', (req, res, next) => {
       }
     });
   });
-
 });
 
 // PROFILE
